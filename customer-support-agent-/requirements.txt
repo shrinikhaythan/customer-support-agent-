@@ -1,0 +1,17 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+
+faiss-cpu
+
+sentence-transformers
+transformers
+huggingface-hub
+
+python-dotenv
+langgraph-checkpoint-sqlite
+pydantic
